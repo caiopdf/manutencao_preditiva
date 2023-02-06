@@ -14,5 +14,5 @@ instruções para uso:
 
 Baixar as planilhas a serem analisadas, disponiveis em dataset, em seguida baixar os pacotes a serem utilizados, disponiveis na pasta requirements, basta copiar e colar o texto no ambiente do RStudio. em seguida copiar o script em formato .R e rodar em Rstudio.
 
-Se preferir, basta copiar o código disponivel em .txt no arquivo code e colar na área designada no RStudio, ou diretamente no console caso esteja utilizando o R padrão.
+Se preferir, basta copiar o código disponivel em .txt no arquivo "manutencao_preventiva.R"  e colar na área designada no RStudio, ou diretamente no console caso esteja utilizando o R padrão.
 
