@@ -1,0 +1,9 @@
+install.package(OneR)
+install.package(rpart)
+install.package(rpart.plot)
+install.package(caTools)
+
+library(OneR)
+library(rpart)
+library(rpart.plot)
+library(caTools)
