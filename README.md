@@ -12,6 +12,7 @@ Main Files:
 
 instruções para uso:
 
-baixar as planilhas utilizadas a serem analisadas, disponiveis em dataset, em seguida baixar os pacotes a serem utilizados, disponiveis na pasta requirements, basta copiar e colar o texto no ambiente do RStudio. em seguida copiar o script em formato .R e rodar em Rstudio,
-podendo também copiar o código em .txt e colar na área designada no RStudio, ou diretamente no console caso esteja utilizando o R padrão.
+Baixar as planilhas a serem analisadas, disponiveis em dataset, em seguida baixar os pacotes a serem utilizados, disponiveis na pasta requirements, basta copiar e colar o texto no ambiente do RStudio. em seguida copiar o script em formato .R e rodar em Rstudio.
+
+Se preferir, basta copiar o código disponivel em .txt no arquivo code e colar na área designada no RStudio, ou diretamente no console caso esteja utilizando o R padrão.
 
